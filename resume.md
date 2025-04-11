@@ -1,6 +1,7 @@
 Yizhe Liu 
 ======
 #### Researcher and Developer in Computer Vision (CV) & Machine Learning (ML). Email: <yizhe-liu@outlook.com>
+Skills: Python, C/C++, Java, C#, CUDA, SQL, R; Multithreading, PyTorch, Git, Linux, Docker
 
 Education
 ---------
@@ -25,25 +26,21 @@ Torenvliet N., **Liu, Y.**, and Zelek J., **["Automating Safety Critical Ultraso
 - Proposed a unsupervised VAE-based model for anomaly detection in ultrasonic pressure tube inspection.
 
 Pena Cantu F.J., Chen X., **Liu Y.**, Kanani K., Park J., Tunes J.N., Xu L., Scott K.A., and Clausi D.A, **["A Hierarchical Multitask U-Net for Automated Sea Ice Mapping from AI4Arctic Sea Ice Challenge Dataset"](https://ieeexplore.ieee.org/document/10337385)** , Oceans Conference Record (IEEE), 2023.
-- Worked on model design and optimization.
+- Worked on neural network design and optimization.
 
 Experience
 ---------
 **Machine Learning Intern (Computer Vision), NVIDIA** (Jan-Apr 2022, Remote)
-- R&D on RGBD-SLAM & RGB-assisted depth map enhancement
+- R&D on RGBD-SLAM & RGB-assisted depth map enhancement (Python, C++, Pytorch)
 
 **Computer Vision Intern, SenseTime** (Jan-Apr 2021, Shanghai)
-- Developed a real-time falling object detection algorithm (Obj. detection & tracking, DBSCAN) & facial recognition SDK
+- Developed a real-time falling object detection algorithm (Obj. detection & tracking, DBSCAN) & facial recognition SDK (Python, C++, OpenCV)
 
 **Research and Development Intern, Huawei Canada** (Jan-Apr 2020, Markham)
-- R&D on autonomous driving safety system and ADAS simulation
+- R&D on autonomous driving safety system and ADAS simulation (Python, C++, ROS, SQL)
 
 **Software Developer Intern, Bank of Montreal** (May-Aug 2019, Toronto)
 - Web development (C#, ASP.NET Core), performance optimization
-
-Skill 
-------
-Python, C/C++, Java, C#, CUDA, SQL, R; Concurrent Programming, PyTorch, Git
 
 Award
 ------
